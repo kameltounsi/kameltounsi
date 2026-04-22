@@ -6,6 +6,28 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+that+makes+sense...;Turning+coffee+into+code...;Debugging+life+one+bug+at+a+time...;Future+Data+Engineer+🚀&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kameltounsi&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🎮 Choose Your Path
+
+```text
+1. Recruiter 👔
+2. Developer 💻
+3. AI Enthusiast 🤖
+4. Curious Human 👀
+```
+
+👉 Select your path:
+
+* 👔 **Recruiter** → Scroll down → Projects = real-world systems 💼
+* 💻 **Developer** → Jump into repos → judge my code 🔥
+* 🤖 **AI Enthusiast** → Welcome, we speak the same language
+* 👀 **Curious Human** → You’re about to get lost here 😏
+
 ---
 
 ## 🧠 Who am I (really?)
@@ -17,6 +39,9 @@ Mohamed Kamel Tounsi
 > status
 Final-year IT Engineering Student @ ESPRIT
 
+> specialization
+Artificial Intelligence & Data Engineering
+
 > current_mission
 Build real-world AI systems + survive debugging sessions
 
@@ -26,49 +51,62 @@ I don't fear bugs... I rename them "features" 🐛
 
 ---
 
-## 🔥 Current Boss Level
+## 🔥 Current Boss Level (PFE Project)
 
-🎮 **PFE Project: HR + Traceability Platform**
+🎮 **HR + Traceability Platform**
 
-✔ Managing employees
-✔ Tracking operators (ENVOYER / RECEVOIR system 👀)
-✔ Generating STB codes like a factory machine
-✔ Playing with barcodes & QR codes
-✔ Handling real enterprise logic
+💡 Enterprise-level system combining:
 
-💡 Basically:
+### 🔹 HR Module
+
+✔ Employee management
+✔ Operator permutation (ENVOYER / RECEVOIR system)
+✔ Real-time availability tracking
+
+### 🔹 Traceability Module
+
+✔ STB code generation (industrial format)
+✔ Barcode & QR system
+✔ Batch tracking + logs
+✔ PDF label generation
+
+💬 Reality:
 👉 If a company loses something… my system will find it 😏
 
 ---
 
 ## 🤖 AI Playground
 
-### 🧠 AI Recruitment Assistant
+### 🧠 AI Recruitment Assistant (Next Big Thing)
 
 * CV parsing (OCR + NLP)
-* Job matching using semantic similarity
-* Skills extraction (ESCO dataset)
-* Explainable scoring (no black-box BS)
+* Job description understanding
+* Skills extraction (ESCO taxonomy)
+* Semantic matching & ranking
+* Explainable AI scoring
 
-💬 Goal:
-👉 Replace HR guesswork with **actual intelligence**
+🎯 Goal:
+👉 Replace HR guesswork with **data-driven intelligence**
 
 ---
 
 ### 😄 Emotion Recognition System
 
-* Detects emotions from faces
-* Trained on real datasets (RAF-DB / FER2013)
-* Works… even when you try to hide your sadness 😅
+* CNN models (EfficientNet / ResNet)
+* 7 emotions classification
+* Real-time inference via API
+
+💬 Yes…
+👉 It knows when you're stressed coding 😅
 
 ---
 
-## 🧪 Side Experiments (aka "What I break for fun")
+## 🧪 Side Experiments (a.k.a controlled chaos)
 
 * Fake News Detection 📰
 * Image Captioning 🤖
-* Kaggle chaos & experiments 💥
-* AI pipelines & data processing
+* Kaggle competitions 💥
+* AI pipelines & preprocessing
 
 ---
 
@@ -79,6 +117,7 @@ Languages:
   - Java
   - Python
   - TypeScript
+  - JavaScript
   - C++
 
 Backend:
@@ -113,7 +152,19 @@ Databases:
 
 ---
 
-## 📊 GitHub Stats (a.k.a proof I exist)
+## 🧠 Brain Status (Real-Time)
+
+```text
+🟢 Learning something new
+🟡 Debugging something weird
+🔴 Broke everything but pretending it's fine
+```
+
+👉 Current state: 🟡 Debugging something weird
+
+---
+
+## 📊 GitHub Stats (proof I'm not sleeping)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kameltounsi&show_icons=true&theme=tokyonight" />
@@ -121,11 +172,82 @@ Databases:
 
 ---
 
-## 🧠 Top Languages (aka where I suffer the most)
+## 🔥 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kameltounsi&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🐍 Contribution Snake (because why not)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🕹️ Mini Game: Find the Bug
+
+```javascript
+function sum(a, b) {
+  return a + b
+}
+
+console.log(sum(2, "2"))
+```
+
+🤔 What’s the output?
+
+<details>
+<summary>Click to reveal 👀</summary>
+
+👉 "22" (JavaScript… I trusted you 💀)
+
+</details>
+
+---
+
+## 😂 Developer Reality
+
+```python
+while True:
+    try:
+        code()
+    except Bug:
+        fix()
+    finally:
+        create_new_bug()
+```
+
+💬 Moral:
+👉 It works… until it doesn’t.
+
+---
+
+## ☕ My Daily Routine
+
+```text
+Wake up → Think about AI
+Open laptop → Fix bugs
+Fix bugs → Create new bugs
+Close laptop → Think about bugs
+Sleep → Dream about bugs
+```
+
+🔥 Repeat until success
+
+---
+
+## 🧬 Human vs AI
+
+| Skill              | Me 😎 | AI 🤖 |
+| ------------------ | ----- | ----- |
+| Writing code       | ✅     | ✅     |
+| Debugging          | 😭    | 🤖    |
+| Coffee consumption | ☕☕☕☕☕ | ❌     |
+| Overthinking       | ✅✅✅   | ❌     |
 
 ---
 
@@ -138,21 +260,23 @@ Databases:
 
 ---
 
-## ☕ Developer Mood
+## 👀 Secret Section
 
-```text
-[██████████░░░░░░░░░░] 50% Coding
-[██████████████░░░░░] 70% Thinking
-[██████████████████] 100% Overthinking
-```
+<details>
+<summary>Don't click this 👀</summary>
+
+You clicked it…
+Now you are officially part of my GitHub journey 🚀
+
+</details>
 
 ---
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/mohamedkameltounsi](https://www.linkedin.com/in/mohamedkameltounsi)
+* 💼 LinkedIn: https://www.linkedin.com/in/mohamedkameltounsi
 * 📧 Email: [kameltounsi220@gmail.com](mailto:kameltounsi220@gmail.com)
-* 
+
 ---
 
 ## ⚡ Final Thought
