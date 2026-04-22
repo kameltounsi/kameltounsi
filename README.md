@@ -12,6 +12,11 @@
 
 ---
 
+💼 Most of my experience comes from **real team & enterprise repositories**
+with **active contributions (see below 👇)**
+
+---
+
 ## 🎮 Choose Your Path
 
 ```text
@@ -23,10 +28,10 @@
 
 👉 Select your path:
 
-* 👔 **Recruiter** → Scroll down → Projects = real-world systems 💼
-* 💻 **Developer** → Jump into repos → judge my code 🔥
-* 🤖 **AI Enthusiast** → Welcome, we speak the same language
-* 👀 **Curious Human** → You’re about to get lost here 😏
+* 👔 **Recruiter** → Scroll to “Real Contributions” 💼
+* 💻 **Developer** → Check commits + repos 🔥
+* 🤖 **AI Enthusiast** → Jump into AI section 🧠
+* 👀 **Curious Human** → Enjoy the chaos 😏
 
 ---
 
@@ -40,73 +45,155 @@ Mohamed Kamel Tounsi
 Final-year IT Engineering Student @ ESPRIT
 
 > specialization
-Artificial Intelligence & Data Engineering
+AI + Data Engineering + Backend Systems
 
 > current_mission
-Build real-world AI systems + survive debugging sessions
+Build real-world systems that actually work
 
 > fun_fact
-I don't fear bugs... I rename them "features" 🐛
+I don't fear bugs... I upgrade them into features 🐛
 ```
 
 ---
 
-## 🔥 Current Boss Level (PFE Project)
+## 🔥 Current Boss Level (PFE)
 
 🎮 **HR + Traceability Platform**
 
-💡 Enterprise-level system combining:
+💡 Enterprise-grade system combining:
 
 ### 🔹 HR Module
 
-✔ Employee management
-✔ Operator permutation (ENVOYER / RECEVOIR system)
-✔ Real-time availability tracking
+✔ Operator permutation (ENVOYER / RECEVOIR)
+✔ Availability system (FREE operators)
+✔ Business workflow automation
 
 ### 🔹 Traceability Module
 
-✔ STB code generation (industrial format)
-✔ Barcode & QR system
+✔ STB industrial code generation
 ✔ Batch tracking + logs
+✔ Barcode & QR system
 ✔ PDF label generation
 
 💬 Reality:
-👉 If a company loses something… my system will find it 😏
+👉 If a company loses something… my system finds it 😏
 
+---
+
+## 💼 Real Contributions (Production / Team Work)
+
+---
+
+### 🏭 Traceability System (Enterprise Level)
+
+🔗 https://github.com/sagetunisia/TraceabilityStore
+
+👨‍💻 Role: Backend / Fullstack Developer
+
+🚀 What I built:
+
+* STB code generation system
+* Batch tracking & consumption logic
+* REST APIs for traceability
+* Barcode & QR integration
+* PDF label system
+
+🔗 My commits:
+https://github.com/sagetunisia/TraceabilityStore/commits?author=kameltounsi
+
+---
+
+### 🏭 HR System (Core Logic)
+
+🔗 https://github.com/w-boujlida/rh
+
+👨‍💻 Role: Backend Developer
+
+🚀 What I built:
+
+* Operator permutation system
+* FREE operators logic
+* Business workflow APIs
+* Secure backend structure
+
+🔗 My commits:
+https://github.com/w-boujlida/rh/commits?author=kameltounsi
+
+---
+
+### 🏭 HR System v2 (Enhancements)
+
+🔗 https://github.com/SaidiBaha/rhnew
+
+👨‍💻 Role: Backend Contributor
+
+🚀 Contributions:
+
+* Feature extensions
+* Logic improvements
+* Backend enhancements
+
+🔗 My commits:
+https://github.com/SaidiBaha/rhnew/commits?author=kameltounsi
+
+---
+
+### 🌐 Internship Project (Fullstack)
+
+🔗 https://github.com/amdouni-bilel/summer-internship-back
+🔗 https://github.com/amdouni-bilel/summer-internship-front
+
+👨‍💻 Role: Fullstack Developer
+
+🚀 Contributions:
+
+* Backend API development
+* Frontend integration
+* Feature implementation
+
+🔗 My commits:
+https://github.com/amdouni-bilel/summer-internship-back/tree/kamel-backend
+https://github.com/amdouni-bilel/summer-internship-front/tree/kamel
 ---
 
 ## 🤖 AI Playground
 
-### 🧠 AI Recruitment Assistant (Next Big Thing)
+### 🧠 AI Recruitment Assistant
 
 * CV parsing (OCR + NLP)
-* Job description understanding
-* Skills extraction (ESCO taxonomy)
-* Semantic matching & ranking
-* Explainable AI scoring
+* Skills extraction (ESCO)
+* Semantic matching
+* Explainable scoring
 
-🎯 Goal:
-👉 Replace HR guesswork with **data-driven intelligence**
+👉 Goal: Replace HR intuition with **real intelligence**
 
 ---
 
 ### 😄 Emotion Recognition System
 
-* CNN models (EfficientNet / ResNet)
-* 7 emotions classification
-* Real-time inference via API
+🔗 https://github.com/kameltounsi/Emotion-Recognition
 
-💬 Yes…
-👉 It knows when you're stressed coding 😅
+* CNN (EfficientNet / ResNet)
+* 7 emotion classification
+* Real-time inference
 
 ---
 
-## 🧪 Side Experiments (a.k.a controlled chaos)
+### 🧠 Brain Tumor Detection
+
+🔗 https://github.com/kameltounsi/Brain-Tumor-classification-project
+
+* Medical imaging classification
+* Deep learning models
+
+---
+
+## 🧪 Side Experiments
 
 * Fake News Detection 📰
 * Image Captioning 🤖
-* Kaggle competitions 💥
-* AI pipelines & preprocessing
+* Kaggle experiments 💥
+* AI pipelines
 
 ---
 
@@ -117,7 +204,6 @@ Languages:
   - Java
   - Python
   - TypeScript
-  - JavaScript
   - C++
 
 Backend:
@@ -130,41 +216,37 @@ Backend:
 Frontend:
   - Angular
   - React
-  - TailwindCSS
 
 AI/Data:
   - TensorFlow
   - PyTorch
-  - Scikit-learn
   - NLP
   - Computer Vision
 
 DevOps:
   - Docker
   - Kubernetes
-  - GitHub Actions
 
 Databases:
   - PostgreSQL
   - MySQL
-  - Oracle
 ```
 
 ---
 
-## 🧠 Brain Status (Real-Time)
+## 🧠 Brain Status
 
 ```text
-🟢 Learning something new
-🟡 Debugging something weird
-🔴 Broke everything but pretending it's fine
+🟢 Learning
+🟡 Debugging
+🔴 Breaking everything
 ```
 
-👉 Current state: 🟡 Debugging something weird
+👉 Current: 🟡 Debugging something weird
 
 ---
 
-## 📊 GitHub Stats (proof I'm not sleeping)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kameltounsi&show_icons=true&theme=tokyonight" />
@@ -180,7 +262,7 @@ Databases:
 
 ---
 
-## 🐍 Contribution Snake (because why not)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -188,22 +270,18 @@ Databases:
 
 ---
 
-## 🕹️ Mini Game: Find the Bug
+## 🕹️ Mini Game
 
 ```javascript
-function sum(a, b) {
-  return a + b
-}
-
-console.log(sum(2, "2"))
+console.log(0.1 + 0.2 === 0.3)
 ```
 
-🤔 What’s the output?
+🤔 True or False?
 
 <details>
-<summary>Click to reveal 👀</summary>
+<summary>Answer 👀</summary>
 
-👉 "22" (JavaScript… I trusted you 💀)
+👉 False 😭 (welcome to floating point hell)
 
 </details>
 
@@ -212,67 +290,53 @@ console.log(sum(2, "2"))
 ## 😂 Developer Reality
 
 ```python
-while True:
-    try:
-        code()
-    except Bug:
-        fix()
-    finally:
-        create_new_bug()
+while alive:
+    code()
+    bug()
+    fix()
+    new_bug()
 ```
-
-💬 Moral:
-👉 It works… until it doesn’t.
 
 ---
 
-## ☕ My Daily Routine
+## ☕ Daily Routine
 
 ```text
-Wake up → Think about AI
-Open laptop → Fix bugs
-Fix bugs → Create new bugs
-Close laptop → Think about bugs
-Sleep → Dream about bugs
+Code → Debug → Fix → Break → Repeat
 ```
-
-🔥 Repeat until success
 
 ---
 
 ## 🧬 Human vs AI
 
-| Skill              | Me 😎 | AI 🤖 |
-| ------------------ | ----- | ----- |
-| Writing code       | ✅     | ✅     |
-| Debugging          | 😭    | 🤖    |
-| Coffee consumption | ☕☕☕☕☕ | ❌     |
-| Overthinking       | ✅✅✅   | ❌     |
+| Skill     | Me 😎 | AI 🤖 |
+| --------- | ----- | ----- |
+| Coding    | ✅     | ✅     |
+| Debugging | 😭    | 🤖    |
+| Coffee    | ☕☕☕☕  | ❌     |
 
 ---
 
-## 🎯 Current Objectives
+## 🎯 Goals
 
-* 🧠 Become a **Data / AI Engineer**
-* 🌍 Work internationally (France 🇫🇷 / Spain 🇪🇸)
-* 🚀 Build scalable AI systems (not just notebooks)
-* 💸 Get paid for solving hard problems 😏
+* 🧠 Become AI / Data Engineer
+* 🌍 Work internationally
+* 🚀 Build scalable systems
 
 ---
 
-## 👀 Secret Section
+## 👀 Secret Zone
 
 <details>
-<summary>Don't click this 👀</summary>
+<summary>Don't click</summary>
 
-You clicked it…
-Now you are officially part of my GitHub journey 🚀
+Too late… now you're part of my journey 🚀
 
 </details>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
 * 💼 LinkedIn: https://www.linkedin.com/in/mohamedkameltounsi
 * 📧 Email: [kameltounsi220@gmail.com](mailto:kameltounsi220@gmail.com)
@@ -281,11 +345,11 @@ Now you are officially part of my GitHub journey 🚀
 
 ## ⚡ Final Thought
 
-> “Any fool can write code that a computer understands.
-> Good engineers write code that humans understand.”
+> Good code works.
+> Great code survives production.
 
-🔥 I'm working on becoming the second one.
+🔥 I'm getting there.
 
 ---
 
-⭐ If you like my work, drop a star... or at least don’t open an issue 😭
+⭐ Star something… it motivates the algorithm 😏
