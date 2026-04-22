@@ -150,7 +150,7 @@ Databases:
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/mohamedkameltounsi/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/mohamedkameltounsi](https://www.linkedin.com/in/mohamedkameltounsi)
 * 📧 Email: [kameltounsi220@gmail.com](mailto:kameltounsi220@gmail.com)
 * 
 ---
